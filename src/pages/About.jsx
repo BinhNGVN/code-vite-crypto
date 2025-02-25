@@ -19,7 +19,7 @@ const About = () => {
       </Center>
       <Center>
         <Text fontSize="md" maxWidth="800px">
-          Katrin created this website with the incredible help of a little robot, who loves numbers and dopamine just as much as her. They are a great team and are always looking for new ways to improve this website. If you have any feedback or ideas, please let us know! In the meantime, have fun trading and remember:{" "}
+          SmSBinhVN created this website with the incredible help of a little robot, who loves numbers and dopamine just as much as her. They are a great team and are always looking for new ways to improve this website. If you have any feedback or ideas, please let us know! In the meantime, have fun trading and remember:{" "}
           <Text as="span" fontWeight="bold">
             Trade carefully.🤗
           </Text>
