@@ -27,7 +27,8 @@ This will run a dev server with auto reloading and an instant preview.
 
 - Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 ## Donate:
-```Paypal:tranthanhlinhtrb2018@gmail.com
+```donate
+Paypal:tranthanhlinhtrb2018@gmail.com
 Mbbank:666678900
 Agribank:8888559592046
 ```
