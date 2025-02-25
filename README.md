@@ -5,9 +5,10 @@ It picks up data from free and open APIs to track the top 100 cryptos.
 ## Setup
 
 ```sh
-git clone https://github.com/katiBe3/modern-crypto-explorer.git
-cd modern-crypto-explorer
+git clone https://github.com/BinhNGVN/code-vite-crypto.git
+cd code-vite-crypto
 npm i
+Node >= 21.1.0
 ```
 
 ```sh
